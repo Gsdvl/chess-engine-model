@@ -1,0 +1,31 @@
+{
+  "os":  "Linux-5.15.0-130-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2024-12-24T19:39:57.814799Z",
+  "program":  "/home/gabs/Documentos/EstudosProgramacao/DataScience/MachineLearning/chess-engine-model/02_EDA.ipynb",
+  "codePath":  "02_EDA.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Gsdvl/chess-engine-model.git",
+    "commit":  "558aa9db245939f3f11e82cd052d42f4ff043628"
+  },
+  "email":  "gsdvl2004@gmail.com",
+  "root":  "/home/gabs/Documentos/EstudosProgramacao/DataScience/MachineLearning/chess-engine-model",
+  "host":  "gabs-IdeaPad-3-15ALC6",
+  "executable":  "/home/gabs/miniconda3/envs/chess/bin/python",
+  "codePathLocal":  "02_EDA.ipynb",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "250375106560",
+      "used":  "233615106048"
+    }
+  },
+  "memory":  {
+    "total":  "10275696640"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}

@@ -1,0 +1,2 @@
+[34m[1mwandb[0m: Adding directory to artifact (./chess_data)... Done. 8.6s
+WARNING:root:Truncating wandb.Table object to 200000 rows.
